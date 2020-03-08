@@ -2,7 +2,7 @@
  
 Speech Emotion Recognition System using MLP (Multilayer Perception)
 
-Dependencies: librosa, numpy, sklearn, pyaudio, scipy
+Dependencies: librosa, numpy, sklearn
 
 Corpos: RAVDESS (English, 1500 audios from 24 people)
 
